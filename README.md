@@ -5,6 +5,6 @@ About Me 🚀
 👨‍💻 I am interested about Web Dev, Dev, Machine Learning, & I enjoy learning new things.
 
 How to reach me ?
-![linkedin](https://www.linkedin.com/in/sanif-kandel/)
+[LinkedIn](https://www.linkedin.com/in/sanif-kandel/)
 
 
