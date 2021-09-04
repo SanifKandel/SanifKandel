@@ -1,5 +1,5 @@
 <h2 align="left">Hey Visitor 👋, I'm Sanif</h2>
-<h4 align="left">I’m an IT enthusiast & a junior pursuing my BSc.(Hons)in Computing. 👨‍💻 I am interested about Web Dev, Dev, Machine Learning, & I enjoy learning new things.</h4>
+<h4 align="left">I’m an IT enthusiast & a junior pursuing my BSc.(Hons)in Computing. 👨‍💻 I am interested about Web Dev,Software Dev,Machine Learning, & I enjoy learning new things.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanifkandel&label=Profile%20views&color=0e75b6&style=flat" alt="sanifkandel" /> </p>
 
